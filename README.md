@@ -1,2 +1,2 @@
 # QR-Algorithm
-Hopefully (?) an implementation of the QR Algorithm for finding eigenvalues in the Julia programming language.
+Hopefully (?) an implementation of the Ising model for magnets in the Julia programming language.
